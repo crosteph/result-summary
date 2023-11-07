@@ -157,6 +157,10 @@ button{
     font-weight: bold;
     border: none;
 }
+.paragraph{
+    text-align: right;
+    color: blue;
+}
 
 @media (max-width: 768px){
     .container{
